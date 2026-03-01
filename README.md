@@ -50,8 +50,8 @@ Modern React + GSAP scroll animation project.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LENGND123&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LENGND123&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LENGND123&theme=tokyonight" />
 </p>
 ---
 
