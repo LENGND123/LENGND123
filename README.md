@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student (2027)
-- 💻 Full Stack Developer (React, JavaScript, Python)
-- ⚡ Interested in Web Performance & Core Web Vitals
-- 🤖 Built AI/ML projects using Python
-- 📈 Passionate about optimization & scalable applications
+🎓 B.Tech Computer Science Student (2027)  
+💻 Full Stack Developer (React, Node.js, Python)  
+⚡ Focused on Performance Optimization & Core Web Vitals  
+🤖 Building AI/ML Projects & Real-World Web Applications  
+📈 Passionate about writing scalable and optimized code
 
 ---
 
