@@ -41,8 +41,10 @@ MongoDB | MySQL
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LENGND123&theme=tokyonight" />
+</p>
 ---
 
 ## 📫 Connect With Me
