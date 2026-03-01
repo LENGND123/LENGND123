@@ -47,13 +47,11 @@ NLP-based sentiment analysis project built with Python.
 🔹 [Scroll Driven Hero Animation](https://github.com/LENGND123/Scroll-Driven-Hero-Animation)  
 Modern React + GSAP scroll animation project.
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LENGND123&layout=compact&theme=tokyonight"/>
-</p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LENGND123&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
