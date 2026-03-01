@@ -38,19 +38,22 @@ MongoDB | MySQL
 
 ## 📌 Featured Projects
 
-🔹 [Website Performance Audit (Lighthouse)](https://github.com/LENGND123/website-performance-audit-lighthouse)
+🔹 [Website Performance Audit (Lighthouse)](https://github.com/LENGND123/website-performance-audit-lighthouse)  
+Performance audit report with optimization strategy for improving Core Web Vitals.
 
-🔹 [Sentiment Analyzer using TextBlob](https://github.com/LENGND123/best-python-projects)
+🔹 [Sentiment Analyzer using TextBlob](https://github.com/LENGND123/sentiment-analyzer-using-TextBlob)  
+NLP-based sentiment analysis project built with Python.
 
-🔹 Scroll Driven Hero Animation (React + GSAP)
-
+🔹 [Scroll Driven Hero Animation](https://github.com/LENGND123/Scroll-Driven-Hero-Animation)  
+Modern React + GSAP scroll animation project.
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LENGND123&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LENGND123&layout=compact&theme=tokyonight"/>
+</p>
 </p>
 ---
 
