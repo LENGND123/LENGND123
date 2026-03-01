@@ -38,13 +38,13 @@ MongoDB | MySQL
 
 ## 📌 Featured Projects
 
-🔹 [Website Performance Audit (Lighthouse)](https://github.com/LENGND123/website-performance-audit-lighthouse)  
-Performance audit report with optimization strategy for improving Core Web Vitals.
+🔹 **Website Performance Audit (Lighthouse)**  
+Core Web Vitals analysis & optimization strategy report.
 
-🔹 [Sentiment Analyzer using TextBlob](https://github.com/LENGND123/sentiment-analyzer-using-TextBlob)  
-NLP-based sentiment analysis project built with Python.
+🔹 **Sentiment Analyzer (NLP)**  
+Python-based sentiment analysis using TextBlob.
 
-🔹 [Scroll Driven Hero Animation](https://github.com/LENGND123/Scroll-Driven-Hero-Animation)  
+🔹 **Scroll-Driven Hero Animation**  
 Modern React + GSAP scroll animation project.
 ---
 ## 📊 GitHub Stats
