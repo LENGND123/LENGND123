@@ -59,3 +59,7 @@ Modern React + GSAP scroll animation project.
 
 - LinkedIn: https://linkedin.com/in/adityarajsingh
 - GitHub: https://github.com/LENGND123
+
+  ---
+
+⭐ From [Aditya Raj Singh](https://github.com/LENGND123)
