@@ -9,7 +9,7 @@
 💻 Full Stack Developer (React, Node.js, Python)  
 ⚡ Focused on Performance Optimization & Core Web Vitals  
 🤖 Building AI/ML Projects & Real-World Web Applications  
-📈 Passionate about writing scalable and optimized code
+📈 Passionate about writing scalable and optimized code      
 
 ---
 
