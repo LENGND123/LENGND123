@@ -10,7 +10,7 @@
 ⚡ Focused on Performance Optimization & Core Web Vitals  
 🤖 Building AI/ML Projects & Real-World Web Applications   
 📈 Passionate about writing scalable and optimized code           
-
+   
 ---
       
 ## 🛠 Tech Stack 
