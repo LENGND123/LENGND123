@@ -14,7 +14,7 @@
 ---  
         
 ## 🛠 Tech Stack 
-
+  
 **Languages:**  
 Python | JavaScript | C++  
 
