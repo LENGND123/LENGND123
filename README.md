@@ -19,7 +19,7 @@
 Python | JavaScript | C++  
 
 **Frontend:**  
-React.js | HTML | CSS | Tailwind  
+React.js | HTML | CSS | Tailwind   
 
 **Backend:**  
 Node.js | Express | Flask  
