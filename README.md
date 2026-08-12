@@ -66,18 +66,25 @@
 ---
 
 ### 👾 Commit Invaders
+name: Generate Commit Invaders
 
-<p align="center"><sub>Space Invaders generated live from my contribution graph — updates daily via GitHub Actions</sub></p>
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
 
-<div align="center">
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lengnd123/lengnd123/output/commit-invaders-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lengnd123/lengnd123/output/commit-invaders.svg">
-  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/lengnd123/lengnd123/output/commit-invaders.svg" width="100%">
-</picture>
-
-</div>
 
 ---
 
