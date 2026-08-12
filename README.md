@@ -65,26 +65,15 @@
 
 ---
 
-### 👾 Commit Invaders
-name: Generate Commit Invaders
+### 👾 Space Shooter
 
-on:
-  schedule:
-    - cron: '0 0 * * *'   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+<p align="center"><sub>My GitHub contributions turned into a space shooter — regenerated daily via GitHub Actions</sub></p>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Goblinlordx/commit-invaders@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user_name: ${{ github.repository_owner }}
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/lengnd123/lengnd123/main/game.gif" alt="Space Shooter" width="100%">
+
+</div>
 
 ---
 
