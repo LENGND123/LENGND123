@@ -1,65 +1,33 @@
-<h1 align="center">Hi 👋, I'm Aditya Raj Singh</h1> 
-<h3 align="center">B.Tech CSE (2027) | Full Stack Developer | AI/ML Enthusiast</h3>
-  
----   
-         
-## 🚀 About Me   
-                       
-🎓 B.Tech Computer Science Student (2027)         
-💻 Full Stack Developer (React, Node.js, Python)        
-⚡ Focused on Performance Optimization & Core Web Vitals     
-🤖 Building AI/ML Projects & Real-World Web Applications     
-📈 Passionate about writing scalable and optimized code            
-   
----  
-        
-## 🛠 Tech Stack 
-  
-**Languages:**  
-Python | JavaScript | C++  
+Contribution Space Shooter
+<p align="center"> <img src="https://raw.githubusercontent.com/lengnd123/lengnd123/output/space-shooter.gif" alt="lengnd123's contribution Space Shooter" /> </p> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Aditya%20Raj%20Singh;Welcome+to+my+profile!" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://avatars.githubusercontent.com/u/158607623?u=34f20f0b467ce3e213f311d7119ca0ac1c4677c8&v=4" width="150" style="border-radius: 50%;" alt="Aditya Raj Singh" /> </p>
+👨‍💻 About Me
+B.Tech CSE Student | AI & ML Enthusiast | Full Stack Developer | Python • React • JavaScript | Building real-world projects
 
-**Frontend:**  
-React.js | HTML | CSS | Tailwind   
+📍 Based in Ajmer, Rajasthan, India
+🏢 Working at Student Developer
+🌐 Check out my website
+👥 4 followers · 4 following
+🛠️ Languages & Tools
+HTMLJavaScriptCSSTypeScriptPythonC
 
-**Backend:**  
-Node.js | Express | Flask  
+📊 GitHub Stats
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=lengnd123&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=lengnd123&theme=github-dark&style=terminal" alt="GitHub Stats" /></picture> </p>
+🚀 Featured Projects
+chatbot-with-weather- JavaScript
+No description provided ⭐ 0 | 🍴 0
 
-**Database:**  
-MongoDB | MySQL  
+Scroll-Driven-Hero-Animation TypeScript
+No description provided ⭐ 0 | 🍴 0
 
+smart-study-planner JavaScript
+No description provided ⭐ 0 | 🍴 0
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+website-performance-audit-lighthouse
+Lighthouse performance audit and optimization recommendations for a live production website. ⭐ 0 | 🍴 0
 
----
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=lengnd123&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=lengnd123&theme=github-dark&style=terminal" alt="lengnd123 contribution activity" /></picture> </p>
+🤝 Connect With Me
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=lengnd123&theme=github-dark&website=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faditya-raj-singh&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=lengnd123&theme=github-dark&website=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faditya-raj-singh&style=terminal" alt="lengnd123 social links" /></picture> </p>
+GitHubWebsite
 
-## 📌 Featured Projects
-
-🔹 **Website Performance Audit (Lighthouse)**  
-Core Web Vitals analysis & optimization strategy report.
-
-🔹 **Sentiment Analyzer (NLP)**  
-Python-based sentiment analysis using TextBlob.
-
-🔹 **Scroll-Driven Hero Animation**  
-Modern React + GSAP scroll animation project.
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LENGND123&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LENGND123&theme=tokyonight" />
-</p>
-
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/adityarajsingh
-- GitHub: https://github.com/LENGND123
-
-  ---
-
-⭐ From [Aditya Raj Singh](https://github.com/LENGND123)
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
