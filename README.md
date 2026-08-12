@@ -60,10 +60,9 @@
 
 <div align="center">
 
-<img src="./trophy.svg" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=lengnd123&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
-
 ---
 
 ### 👾 Space Shooter
