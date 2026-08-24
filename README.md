@@ -15,7 +15,7 @@
     
 ### 🧠 About Me
 
-- 🎓 B.Tech CSE Student. 
+- 🎓 B.Tech CSE Student.  
 - 🤖 AI & ML Enthusiast
 - 💻 Full-Stack Developer
 - 🚀 Building real-world projects with **Python · React · JavaScript**
