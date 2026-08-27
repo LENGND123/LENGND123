@@ -7,7 +7,7 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/lengnd123?label=Follow&style=social)](https://github.com/lengnd123)
-[![Profile Views](https://komarev.com/ghpvc/?username=lengnd123&color=3fe9c9&style=flat-square&label=Profile+Views)](https://github.com/lengnd123)
+[![Profile Views](https://komarev.com/ghpvc/?username=lengnd123&color=3fe9c9&style=flat-square&label=Profile+Views)](https://github.com/lengnd123) 
 
 </div>
 
