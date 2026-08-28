@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=3FE9C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Raj+Singh;B.Tech+CSE+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />  
    
-</div>
+</div> 
       
 <div align="center">
 
