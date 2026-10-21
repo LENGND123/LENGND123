@@ -2,7 +2,20 @@
 <title>Aditya Raj Singh — Living Identity</title>
 <desc>Animated colored ASCII portrait and name. REPOSITORIES: 39. STARS: 4. CONTRIBUTIONS: 2005. FOLLOWERS: 12</desc>
 <defs><linearGradient id="edge"><stop stop-color="#e34c26"/><stop offset="1" stop-color="#b594ff"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8a9bb9" stroke-opacity=".08"/></pattern><pattern id="ascii" width="5" height="7" patternUnits="userSpaceOnUse"><text y="6" font-family="monospace" font-size="7" fill="#ecf4ff">#</text></pattern><radialGradient id="halo"><stop stop-color="#e34c26" stop-opacity=".16"/><stop offset="1" stop-color="#e34c26" stop-opacity="0"/></radialGradient></defs>
-
+<style>
+@keyframes arrive{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes namein{from{opacity:0;transform:translateX(-16px)}to{opacity:1;transform:translateX(0)}}
+@keyframes scan{0%{transform:translateY(0);opacity:0}14%{opacity:.7}42%{transform:translateY(330px);opacity:0}100%{transform:translateY(330px);opacity:0}}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes breathe{0%,100%{opacity:.9}50%{opacity:.35}}
+.portrait{animation:arrive 1.15s ease-out both,floaty 7s ease-in-out 1.15s infinite}
+.name{animation:namein .95s ease-out .2s both}
+.scan{animation:scan 5.5s ease-in-out 1.2s infinite}
+.orbit{transform-origin:790px 250px;animation:orbit 36s linear infinite}
+.pulse{animation:breathe 4.5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.portrait,.name,.scan,.orbit,.pulse{animation:none}.scan{display:none}}
+</style>
 <rect width="1000" height="570" rx="24" fill="#080c18"/><rect x="1" y="1" width="998" height="568" rx="23" fill="url(#grid)" stroke="#e34c26" stroke-opacity=".3"/>
 <ellipse cx="790" cy="245" rx="260" ry="245" fill="url(#halo)"/>
 <g font-family="monospace" fill="#8a9bb9"><text x="40" y="44" font-size="11" letter-spacing="3">GITSKINS / LIVING IDENTITY</text><text x="960" y="44" text-anchor="end" font-size="11">@lengnd123</text></g>
