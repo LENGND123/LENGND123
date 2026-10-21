@@ -1,94 +1,60 @@
-<div align="center">                                
-         
-<img src="https://readme-typing-svg.demolab.com? font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=3FE9C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Raj+Singh;B.Tech+CSE+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />  
-    
-</div> 
-      
-<div align="center">.  
-
-[![GitHub followers](https://img.shields.io/github/followers/lengnd123?label=Follow&style=social)](https://github.com/lengnd123)
-[![Profile Views](https://komarev.com/ghpvc/?username=lengnd123&color=3fe9c9&style=flat-square&label=Profile+Views)](https://github.com/lengnd123) 
-
-</div>
-
----
-       
-### 🧠 About Me
-
-- 🎓 B.Tech CSE Student.  
-- 🤖 AI & ML Enthusiast
-- 💻 Full-Stack Developer
-- 🚀 Building real-world projects with **Python · React · JavaScript**
-- 📫 Reach me on GitHub — [@lengnd123](https://github.com/lengnd123)
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="assets/hero.jpg" alt="Night lake under a teal planet" width="100%"/>
 
-</div>
+# ADITYA RAJ SINGH
 
----
+**Full-stack and AI/ML developer**
 
-### 📊 GitHub Stats
+B.Tech CSE student in Ajmer. I build tools you can open: interview practice, air-quality alerts, and hand tracking.
 
-<div align="center">
+[![Building](https://img.shields.io/badge/Building-12382a?style=for-the-badge)](https://github.com/LENGND123?tab=repositories)
+[![Learning](https://img.shields.io/badge/Learning-12382a?style=for-the-badge)](https://github.com/LENGND123)
+[![Shipping](https://img.shields.io/badge/Shipping-12382a?style=for-the-badge)](https://lengnd123.github.io/portfolio)
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=lengnd123&show_icons=true&theme=dark&hide_border=true&bg_color=0a121c&title_color=3fe9c9&icon_color=3fe9c9&text_color=e8f4f2" />
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3dff9a)](https://github.com/LENGND123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3dff9a)](https://www.linkedin.com/in/aditya-raj-singh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3dff9a)](https://lengnd123.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3dff9a)](mailto:sadityaraj369@gmail.com)
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lengnd123&layout=compact&theme=dark&hide_border=true&bg_color=0a121c&title_color=3fe9c9&text_color=e8f4f2" />
+*"Tools you can open, not just talk about."*
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lengnd123&theme=dark&hide_border=true&background=0a121c&stroke=3fe9c9&ring=3fe9c9&fire=ffcf5c&currStreakLabel=3fe9c9" />
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLENGND123&query=%24.public_repos&style=for-the-badge&label=Repos&color=0d1117&labelColor=12382a)](https://github.com/LENGND123?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/LENGND123?style=for-the-badge&label=Followers&color=0d1117&labelColor=12382a)](https://github.com/LENGND123?tab=followers)
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=3dff9a&icon_color=3dff9a&text_color=c9d1d9"/>
 
 </div>
 
----
+<table>
+<tr>
+<td width="42%" valign="top">
+<h3>Tech stack</h3>
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,flask,mongodb,html,css,aws,git&perline=6" alt="Tech stack"/>
+</td>
+<td width="58%" valign="top">
+<h3>Contribution activity</h3>
+<img src="https://ghchart.rshah.org/3dff9a/LENGND123" alt="Contribution activity" width="100%"/>
+</td>
+</tr>
+</table>
 
-### 🏆 GitHub Trophies
+<h3>Featured projects</h3>
 
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=lengnd123&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
----
-
-### 👾 Space Shooter
-
-<p align="center"><sub>My GitHub contributions turned into a space shooter — regenerated daily via GitHub Actions</sub></p>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lengnd123/lengnd123/main/game.gif" alt="Space Shooter" width="100%">
-
-</div>
-
----
-
-### 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lengnd123&theme=react-dark&hide_border=true&bg_color=0a121c&color=3fe9c9&line=3fe9c9&point=ffcf5c" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>⚡ Card generated & customized with help from Claude — colors tuned to match a terminal / neon aesthetic.</sub>
-
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/LENGND123/ai-interview-prep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LENGND123&repo=ai-interview-prep&hide_border=true&bg_color=0d1117&title_color=3dff9a&text_color=c9d1d9&icon_color=3dff9a" alt="ai-interview-prep" width="100%"/></a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/LENGND123/school-aqi-alert"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LENGND123&repo=school-aqi-alert&hide_border=true&bg_color=0d1117&title_color=3dff9a&text_color=c9d1d9&icon_color=3dff9a" alt="school-aqi-alert" width="100%"/></a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/LENGND123/steering-wheel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LENGND123&repo=steering-wheel&hide_border=true&bg_color=0d1117&title_color=3dff9a&text_color=c9d1d9&icon_color=3dff9a" alt="steering-wheel" width="100%"/></a>
+</td>
+</tr>
+</table>
