@@ -3,9 +3,9 @@
 <p><sub>WOW PROFILE · LENGND123 · LIVE</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/hero-light.svg" />
-  <img src="profile/hero-dark.svg" width="100%" alt="Aditya Raj Singh portrait and name" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/hero-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/hero-light.gif" />
+  <img src="profile/hero-dark.gif" width="100%" alt="Aditya Raj Singh portrait and name" />
 </picture>
 
 <p><strong>Full-stack and AI/ML developer</strong> · Ajmer, Rajasthan</p>
@@ -36,9 +36,9 @@
 <h2>What moves the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/highlights-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/highlights-light.svg" />
-  <img src="profile/highlights-dark.svg" width="100%" alt="Current focus" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/highlights-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/highlights-light.gif" />
+  <img src="profile/highlights-dark.gif" width="100%" alt="Current focus" />
 </picture>
 
 <p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
@@ -48,9 +48,9 @@
 <h2>The tools behind the signal</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/stack-light.svg" />
-  <img src="profile/stack-dark.svg" width="100%" alt="Technology stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stack-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/stack-light.gif" />
+  <img src="profile/stack-dark.gif" width="100%" alt="Technology stack" />
 </picture>
 
 <p align="center"><sub>HTML · TypeScript · JavaScript · CSS · Python · chosen for the work, not the trend</sub></p>
@@ -60,15 +60,15 @@
 <h2>Built, shipped, shared</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/projects-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/projects-light.svg" />
-  <img src="profile/projects-dark.svg" width="100%" alt="Featured projects" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/projects-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/projects-light.gif" />
+  <img src="profile/projects-dark.gif" width="100%" alt="Featured projects" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/timeline-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/timeline-light.svg" />
-  <img src="profile/timeline-dark.svg" width="100%" alt="Project timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/timeline-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/timeline-light.gif" />
+  <img src="profile/timeline-dark.gif" width="100%" alt="Project timeline" />
 </picture>
 
 <table width="100%">
@@ -101,9 +101,9 @@
 <h2>Momentum, made visible</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.svg" />
-  <img src="profile/stats-dark.svg" width="100%" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.gif" />
+  <img src="profile/stats-dark.gif" width="100%" alt="GitHub stats" />
 </picture>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
@@ -111,9 +111,9 @@
 <h2>The trail behind the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/heatmap-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/heatmap-light.svg" />
-  <img src="profile/heatmap-dark.svg" width="100%" alt="Contribution activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/heatmap-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/heatmap-light.gif" />
+  <img src="profile/heatmap-dark.gif" width="100%" alt="Contribution activity" />
 </picture>
 
 <p align="center"><sub>3 day current streak · 86 active days</sub></p>
@@ -129,9 +129,9 @@
 <p>I like working with people who care about craft, context, and shipping the useful version.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/social-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile/social-light.svg" />
-  <img src="profile/social-dark.svg" width="100%" alt="Contact links" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/social-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/social-light.gif" />
+  <img src="profile/social-dark.gif" width="100%" alt="Contact links" />
 </picture>
 
 <p>
