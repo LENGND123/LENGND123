@@ -3,8 +3,9 @@
 <p><sub>WOW PROFILE · LENGND123 · LIVE</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=living-identity&label=Aditya%20Raj%20Singh&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=living-identity&label=Aditya%20Raj%20Singh&v=wow-living-identity-1&mode=dark" width="100%" alt="Aditya Raj Singh animated Living Identity portrait and ASCII name" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/hero-light.svg" />
+  <img src="profile/hero-dark.svg" width="100%" alt="Aditya Raj Singh portrait and name" />
 </picture>
 
 <p><strong>Full-stack and AI/ML developer</strong> · Ajmer, Rajasthan</p>
@@ -35,8 +36,9 @@
 <h2>What moves the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&items=HTML%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CJavaScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&items=HTML%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CJavaScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Aditya Raj Singh animated profile highlights" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/highlights-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/highlights-light.svg" />
+  <img src="profile/highlights-dark.svg" width="100%" alt="Current focus" />
 </picture>
 
 <p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
@@ -46,8 +48,9 @@
 <h2>The tools behind the signal</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Aditya Raj Singh animated technology stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/stack-light.svg" />
+  <img src="profile/stack-dark.svg" width="100%" alt="Technology stack" />
 </picture>
 
 <p align="center"><sub>HTML · TypeScript · JavaScript · CSS · Python · chosen for the work, not the trend</sub></p>
@@ -57,13 +60,15 @@
 <h2>Built, shipped, shared</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Aditya Raj Singh animated project constellation" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/projects-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/projects-light.svg" />
+  <img src="profile/projects-dark.svg" width="100%" alt="Featured projects" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Aditya Raj Singh animated project launch timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/timeline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/timeline-light.svg" />
+  <img src="profile/timeline-dark.svg" width="100%" alt="Project timeline" />
 </picture>
 
 <table width="100%">
@@ -96,8 +101,9 @@
 <h2>Momentum, made visible</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Aditya Raj Singh animated GitHub signal" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.svg" />
+  <img src="profile/stats-dark.svg" width="100%" alt="GitHub stats" />
 </picture>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
@@ -105,8 +111,9 @@
 <h2>The trail behind the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Aditya Raj Singh contribution energy field" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/heatmap-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/heatmap-light.svg" />
+  <img src="profile/heatmap-dark.svg" width="100%" alt="Contribution activity" />
 </picture>
 
 <p align="center"><sub>3 day current streak · 86 active days</sub></p>
@@ -122,8 +129,9 @@
 <p>I like working with people who care about craft, context, and shipping the useful version.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Aditya Raj Singh contact links" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/social-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/social-light.svg" />
+  <img src="profile/social-dark.svg" width="100%" alt="Contact links" />
 </picture>
 
 <p>
