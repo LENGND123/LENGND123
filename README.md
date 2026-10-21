@@ -1,60 +1,139 @@
 <div align="center">
 
-<img src="assets/hero.jpg" alt="Night lake under a teal planet" width="100%"/>
+<p><sub>WOW PROFILE · LENGND123 · LIVE</sub></p>
 
-# ADITYA RAJ SINGH
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=living-identity&label=Aditya%20Raj%20Singh&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=living-identity&label=Aditya%20Raj%20Singh&v=wow-living-identity-1&mode=dark" width="100%" alt="Aditya Raj Singh animated Living Identity portrait and ASCII name" />
+</picture>
 
-**Full-stack and AI/ML developer**
-
-B.Tech CSE student in Ajmer. I build tools you can open: interview practice, air-quality alerts, and hand tracking.
-
-[![Building](https://img.shields.io/badge/Building-12382a?style=for-the-badge)](https://github.com/LENGND123?tab=repositories)
-[![Learning](https://img.shields.io/badge/Learning-12382a?style=for-the-badge)](https://github.com/LENGND123)
-[![Shipping](https://img.shields.io/badge/Shipping-12382a?style=for-the-badge)](https://lengnd123.github.io/portfolio)
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3dff9a)](https://github.com/LENGND123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3dff9a)](https://www.linkedin.com/in/aditya-raj-singh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3dff9a)](https://lengnd123.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3dff9a)](mailto:sadityaraj369@gmail.com)
-
-*"Tools you can open, not just talk about."*
-
+<p><strong>Full-stack and AI/ML developer</strong> · Ajmer, Rajasthan</p>
+<p>Building useful things and sharing the work in public.</p>
+<p><a href="https://github.com/LENGND123">GitHub</a></p>
 </div>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Identity, with signal</h2>
+
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<p>Building useful things and sharing the work in public.</p>
+<p><strong>Focus:</strong> <code>HTML</code> · <code>TypeScript</code> · <code>JavaScript</code></p>
+<p><sub>Full-stack apps, small ML tools, and work shared in public.</sub></p>
+</td>
+<td width="38%" valign="top">
+<p><code>LIVE SIGNAL</code></p>
+<p><strong>39</strong> repos<br /><strong>4</strong> stars<br /><strong>2,005</strong> contributions<br /><strong>12</strong> followers</p>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>What moves the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&items=HTML%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CJavaScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&items=HTML%3A%3ACurrent%20focus%7CTypeScript%3A%3AIn%20the%20build%20queue%7CJavaScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Aditya Raj Singh animated profile highlights" />
+</picture>
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The tools behind the signal</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Aditya Raj Singh animated technology stack" />
+</picture>
+
+<p align="center"><sub>HTML · TypeScript · JavaScript · CSS · Python · chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Aditya Raj Singh animated project constellation" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&repos=LENGND123%2Fsteering-wheel%2CLENGND123%2Fai-interview-prep%2CLENGND123%2Fschool-aqi-alert%2CLENGND123%2Fportfolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Aditya Raj Singh animated project launch timeline" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+<p><strong><a href="https://github.com/LENGND123/steering-wheel">steering-wheel</a></strong></p>
+<p>Virtual steering wheel with OpenCV and MediaPipe.</p>
+<p><sub>Python · ★ 3</sub></p>
+</td>
+<td width="25%" valign="top">
+<p><strong><a href="https://github.com/LENGND123/ai-interview-prep">ai-interview-prep</a></strong></p>
+<p>MERN interview practice with Gemini scoring.</p>
+<p><sub>JavaScript · ★ 0</sub></p>
+</td>
+<td width="25%" valign="top">
+<p><strong><a href="https://github.com/LENGND123/school-aqi-alert">school-aqi-alert</a></strong></p>
+<p>Morning air-quality alerts for schools, on AWS.</p>
+<p><sub>Python · ★ 0</sub></p>
+</td>
+<td width="25%" valign="top">
+<p><strong><a href="https://github.com/LENGND123/portfolio">portfolio</a></strong></p>
+<p>Desk-style portfolio with pinned projects.</p>
+<p><sub>HTML · ★ 0</sub></p>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Aditya Raj Singh animated GitHub signal" />
+</picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Aditya Raj Singh contribution energy field" />
+</picture>
+
+<p align="center"><sub>3 day current streak · 86 active days</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <div align="center">
 
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLENGND123&query=%24.public_repos&style=for-the-badge&label=Repos&color=0d1117&labelColor=12382a)](https://github.com/LENGND123?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/LENGND123?style=for-the-badge&label=Followers&color=0d1117&labelColor=12382a)](https://github.com/LENGND123?tab=followers)
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LENGND123&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=3dff9a&icon_color=3dff9a&text_color=c9d1d9"/>
+<h2>Make something worth noticing</h2>
+
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=LENGND123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F158607623%3Fv%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Aditya Raj Singh contact links" />
+</picture>
+
+<p>
+  <a href="https://github.com/LENGND123">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/aditya-raj-singh">LinkedIn</a>
+  ·
+  <a href="https://lengnd123.github.io/portfolio">Portfolio</a>
+</p>
+
+<p><sub>Aditya Raj Singh · Wow Profile generated with <a href="https://www.gitskins.com/templates/wow">GitSkins</a></sub></p>
 
 </div>
-
-<table>
-<tr>
-<td width="42%" valign="top">
-<h3>Tech stack</h3>
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,flask,mongodb,html,css,aws,git&perline=6" alt="Tech stack"/>
-</td>
-<td width="58%" valign="top">
-<h3>Contribution activity</h3>
-<img src="https://ghchart.rshah.org/3dff9a/LENGND123" alt="Contribution activity" width="100%"/>
-</td>
-</tr>
-</table>
-
-<h3>Featured projects</h3>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/LENGND123/ai-interview-prep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LENGND123&repo=ai-interview-prep&hide_border=true&bg_color=0d1117&title_color=3dff9a&text_color=c9d1d9&icon_color=3dff9a" alt="ai-interview-prep" width="100%"/></a>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/LENGND123/school-aqi-alert"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LENGND123&repo=school-aqi-alert&hide_border=true&bg_color=0d1117&title_color=3dff9a&text_color=c9d1d9&icon_color=3dff9a" alt="school-aqi-alert" width="100%"/></a>
-</td>
-<td width="33%" valign="top">
-<a href="https://github.com/LENGND123/steering-wheel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LENGND123&repo=steering-wheel&hide_border=true&bg_color=0d1117&title_color=3dff9a&text_color=c9d1d9&icon_color=3dff9a" alt="steering-wheel" width="100%"/></a>
-</td>
-</tr>
-</table>
