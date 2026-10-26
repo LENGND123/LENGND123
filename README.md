@@ -1,6 +1,6 @@
 <div align="center">
  
-<p><sub>WOW PROFILE · LENGND123 · LIVE</sub></p> 
+<p><sub>WOW PROFILE · LENGND123 · LIVE</sub></p>  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/hero-dark-smooth.gif" />
